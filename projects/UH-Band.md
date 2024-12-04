@@ -10,7 +10,9 @@ labels:
 summary: "A collection of performances that I've performed in since my time at the University of Hawaii at Manoa with the Rainbow Warrior Marching Band."
 ---
 
-<img src="uhmb24.jpg">
+<img width="500px" 
+     class="rounded float-start pe-4"
+     src="uhmb24.jpg">
 
 Music has played a huge role in my life. From starting off learning piano at the age of 7 years old, to now being a member
 of the biggest music organization at the university. Being in the Rainbow Warrior Marching Band allows me to continue my passion for music.
