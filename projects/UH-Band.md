@@ -10,7 +10,7 @@ labels:
 summary: "A collection of performances that I've performed in since my time at the University of Hawaii at Manoa with the Rainbow Warrior Marching Band."
 ---
 
-<img width="500px" 
+<img width="1000px" 
      class="rounded float-start pe-4"
      src="uhmb24.jpg">
 
