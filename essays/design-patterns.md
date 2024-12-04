@@ -11,7 +11,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="200px" 
+<img width="300px" 
      class="rounded float-start pe-4"
      src="recipe-book.jpg">
 
