@@ -61,7 +61,7 @@ I haven't used AI for this element because I never really thought or needed to s
 
 ### 10. Explaining code
 
-
+While I don't usually need code to be explained to me, there are some rare instances where I do want to know why certain code works the way it does, so I do use AI for this situation.
 
 ### 11. Writing code
 
@@ -69,7 +69,7 @@ I've used ChatGPT and Copilot to help me write code, especially Copilot. When we
 
 ### 12. Documenting code
 
-Documenting code is when you write a description or comment on certain lines of code, such as its purpose. When writing these comments, I usually write them myself and not with AI because I think a brief comment should be good enough. For example, 
+Documenting code is when you write a description or comment on certain lines of code, such as its purpose. When writing these comments, I usually write them myself and not with AI because I think a brief comment should be good enough. I usually keep my comments as short as I can, but short enough so I can still understand what the code is doing. I don't use AI for this because I think it'll be faster if I made my own comments. However, if my code comes from AI, then usually the comments it provides should be there as it is.
 
 ### 13. Quality Assurance
 
