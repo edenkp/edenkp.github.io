@@ -73,7 +73,7 @@ I've used ChatGPT and Copilot to help me write code, especially Copilot. When we
 
 ### 13. Quality Assurance
 
-
+A lot of times, I have used Copilot to help me with quality assurance. For example, when working on the final project, I worked on the design of our website and used Copilot a lot. Sometimes, I would have trouble getting something properly positioned on the page, so I would ask Copilot "What's wrong with my code and how do I make it so that it does (issue)?" Usually, the result I would get wouldn't be the result I want, but after a bit, I eventually get what I need. Using Copilot was helpful in making progress, but it take a lot of time just to fix the quality of the application.
 
 ### 14. Other uses in ICS 314
 
