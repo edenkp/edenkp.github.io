@@ -69,7 +69,7 @@ I've used ChatGPT and Copilot to help me write code, especially Copilot. When we
 
 ### 12. Documenting code
 
-
+Documenting code is when you write a description or comment on certain lines of code, such as its purpose. When writing these comments, I usually write them myself and not with AI because I think a brief comment should be good enough. For example, 
 
 ### 13. Quality Assurance
 
