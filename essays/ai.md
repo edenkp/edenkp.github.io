@@ -94,14 +94,14 @@ I think some challenges that came when using AI was that sometimes, code that ha
 
 Despite the challenges that come to using AI, I think there are still potential opportunities to integrate AI into education in software engineering. I think AI can be used to help students gain a better understanding on certain software engineering concepts if the option to ask someone else for help isn't available. For example, maybe a student is working on an assignment or project late at night, but is in dire need of an explanation or help with code. There could be a specific AI application made specifically for software engineering education that is ready for use at any time of the day.
 
-## Comparative Analysis on AI - Provide a comparative analysis between traditional teaching methods and AI-enhanced approaches in the context of software engineering education. Consider aspects like engagement, knowledge retention, and practical skill development.
+## Comparative Analysis on AI
 
 While AI does have its benefits and be helpful with software engineering education, compared to traditional teaching, I believe traditional teaching is overall better than AI. In terms of engagement, traditional teaching is better. To me, something about human interaction is a lot more engaging than interacting with AI. With a person, they can teach you not only by explaining concepts in the way they understand it, but you can also learn from any experiences that they share. Traditional teaching is also good with knowledge retention because you often retain information by practicing it, and you would practice it by doing homework. I don't think you could really do the same with AI because if you ask if to help you practice, it might just give you one question and you'll have to keep asking for more practice each time. With traditional teaching, teachers would also provide exams so you can apply your knowledge to test how well you understand things. With AI, there may be a chance AI might not create a set of questions that'll effectively test your skill development.
 
 ## Future Considerations on AI
 
+I think as AI continues to evolve and is incorporated in more things, it'll become more effective and better enchance our experiences both outside of software engineering and in software engineering. I'd like to hope that AI will provide better responses when prompted to help with code. That is something that could be improved on. I also think for AI such as Copilot, there should be a feature where if a prompt sent in by a user does have more than one solution, then all the solutions should be sent out. For Copilot, when you use the quick fix feature, it often just does one way of trying to fix something, but the way it fixes your problem may not be the right fix. I believe one main challenge that comes with using AI in education is that students might take advantage of these AI tools by taking code made from AI and using it as their own. I think fixed by having some sort of AI detenction tool on hand or making a feature where AI rejects a user's question if it were to believe that the user is going to take its response and take it as their own.
 
-
-## Conclusion on AI
+## Conclusion on AI - Summarize your reflections and insights regarding the use of AI in the Software Engineering course. Conclude with any recommendations or suggestions for optimizing the integration of AI in future courses.
 
 
