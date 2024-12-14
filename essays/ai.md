@@ -11,7 +11,7 @@ labels:
 
 # Using AI as an Educational Tool
 
-<img width="200px" 
+<img width="500px" 
      class="rounded float-start pe-4" 
      src="ai-img.png" >
 
@@ -61,7 +61,7 @@ I haven't used AI for this element because I never really thought or needed to s
 
 ### 10. Explaining code
 
-While I don't usually need code to be explained to me, there are some rare instances where I do want to know why certain code works the way it does, so I do use AI for this situation.
+While I don't usually need code to be explained to me, there are some rare instances where I do want to know why certain code works the way it does, so I do use AI for this situation. For this course in particular, however, I didn't use AI for this purpose because I never really needed to have any code explained to me. 
 
 ### 11. Writing code
 
@@ -77,8 +77,31 @@ A lot of times, I have used Copilot to help me with quality assurance. For examp
 
 ### 14. Other uses in ICS 314
 
-
+Thinking back on my use of AI in ICS 314, I don't think there are any other instances that I haven't already touched upon because all the previous elements are the main things I decided to use AI for.
 
 ## AI's Impact on Learning and Understanding
 
-Using AI has influenced my learning experience by providing me an explanation on certain topics in a way that I could understand. A lot of times whenever I don't understand something, I will ask ChatGPT to explain it to me in a more simpler way, which very much helps me to understand what is being taught to me. This helps me with comprehension, skill-development, and problem-solving abilities because now that AI has helped me to have a better understanding on things, I can easily apply what I have learned to future projects and assignments.
+Using AI has influenced my learning experience by providing me an explanation on certain topics in a way that I could understand. A lot of times whenever I don't understand something, I will ask ChatGPT to explain it to me in a more simpler way, which very much helps me to understand what is being taught to me. This helps me with comprehension, skill-development, and problem-solving abilities because now that AI has helped me to have a better understanding on things, I can easily apply what I have learned to future projects and assignments. Using AI technologies to understand software engineering concepts has enchanced my understanding because it provides me explanations in ways that I could understand it if learning it from an actual person was confusing.
+
+## The Practical Applications of AI
+
+With the evolution of technology, AI has started to become more prominent. Some applications of AI that I have seen outside of ICS 314 is for artistic creation. I've seen a lot of art made by AI on social media and Internet. While most of the AI produced art looks good, there is some controversy with it as some believe it takes away from art made by actual people. I also think it depends on what prompt is given to AI and the type of art being produced, whether it's a picture/image, or a short video. When it comes to images, the outcome produced by AI may be more effective, but when it comes to producing videos, it's a little questionable in terms of quality. For example, on Instagram, I've seen videos that are based on real images in attempts to make those images like videos, but sometimes, the AI causes the people and objects to become deformed or changed. An example of this is when there was an image of two people hugging, but the one of the person's arms fazes through the other person's arm. I've also seen AI being used for simulations, such as Charcter AI's. Character AI's are made from characters from different medias, such as movies, TV shows, etc. AI is used by providing these characters the ability to communicate with users while also sounding/acting like the character actually would in their respective shows/medias. There are simulations where you can act like you are texting that character, or you could even "call" them. There are some applications where you can call a certain person/character, but in reality, it's just an AI that you would be talking to. 
+The AI applications mentioned above demonstrate the potential of AI to enhance creativity and simulate user interactions. However, their effectiveness in addressing real-world software engineering challenges is mixed. While they excel in automating tasks and providing innovative solutions, they often require human oversight to address inaccuracies, such as deformities in AI-generated videos or maintaining context in character simulations. This highlights that AI is a valuable tool but not yet a complete substitute for human expertise.
+
+## AI's Challenges and Opportunities
+
+I think some challenges that came when using AI was that sometimes, code that has been produced by AI wouldn't provide me the results that I'm looking for. For example, whenever I wanted to fix something UI or CSS related, I would use ChatGPT to help me by sending it the code I have and telling it to fix it based on what I want. The code it provides me sometimes doesn't work, so I have to keep sending in questions to the AI until something happens. Another example is when lines of code would have red lines so I would use GitHub Copilot to help me fix it. A common solution Copilot would give me is to delete that line of code with red, but I know this isn't the right fix because that line of code is important. This happened a lot while working on the final project. 
+
+Despite the challenges that come to using AI, I think there are still potential opportunities to integrate AI into education in software engineering. I think AI can be used to help students gain a better understanding on certain software engineering concepts if the option to ask someone else for help isn't available. For example, maybe a student is working on an assignment or project late at night, but is in dire need of an explanation or help with code. There could be a specific AI application made specifically for software engineering education that is ready for use at any time of the day.
+
+## Comparative Analysis on AI - Provide a comparative analysis between traditional teaching methods and AI-enhanced approaches in the context of software engineering education. Consider aspects like engagement, knowledge retention, and practical skill development.
+
+While AI does have its benefits and be helpful with software engineering education, compared to traditional teaching, I believe traditional teaching is overall better than AI. In terms of engagement, traditional teaching is better. To me, something about human interaction is a lot more engaging than interacting with AI. With a person, they can teach you not only by explaining concepts in the way they understand it, but you can also learn from any experiences that they share. Traditional teaching is also good with knowledge retention because you often retain information by practicing it, and you would practice it by doing homework. I don't think you could really do the same with AI because if you ask if to help you practice, it might just give you one question and you'll have to keep asking for more practice each time. With traditional teaching, teachers would also provide exams so you can apply your knowledge to test how well you understand things. With AI, there may be a chance AI might not create a set of questions that'll effectively test your skill development.
+
+## Future Considerations on AI
+
+
+
+## Conclusion on AI
+
+
