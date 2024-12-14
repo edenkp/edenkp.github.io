@@ -104,4 +104,10 @@ I think as AI continues to evolve and is incorporated in more things, it'll beco
 
 ## Conclusion on AI - Summarize your reflections and insights regarding the use of AI in the Software Engineering course. Conclude with any recommendations or suggestions for optimizing the integration of AI in future courses.
 
+Using AI in the Software Engineering course has had its ups and downs and has provided me enhancements and challenges. For me, using AI was really helpful, but I think if the course was up to date with the materials, readings, and screencasts, then I wouldn't have to use ChatGPT or other AI tools as much as I did. It's okay to have AI help with learning, but I think to some extent, the information being taught should be coming from a person, such as the professors or anyone teaching the software engineering course. Depending on what you ask AI, it may take just a minute, or maybe 15 or more minutes to find a solution. 
+
+AI was a very helpful tool for me in this course. It helped me to fix lines of code that wasn't working and properly implementing lines of code in WODs and projects. While this was great, I was using it with a risk of time. While some AI responses were helpful and gave me the necessary results I wanted, whenever that wasn't the case, then it would cost time. This wasn't good especially when it came to WODs since they are timed. When students considering using AI for this course, they should make sure they are aware of this so they can be finished with the work faster. 
+
+On the subject of using AI for education, it's not necessarily a problem unless the students use the AI to do all the work for them. It's okay to use AI to help give you a start and give you some sort of idea on how to approach a problem, but students shouldn't solely depend on AI to do the work for them because they aren't learning anything if they do that. 
+
 
