@@ -7,6 +7,7 @@ date: 2024-12-12
 published: true
 labels:
   - AI
+  - Education
 ---
 
 # Using AI as an Educational Tool
