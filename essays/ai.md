@@ -4,7 +4,7 @@ type: essay
 title: "Using AI as an Educational Tool"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-12
-published: false
+published: true
 labels:
   - AI
 ---
@@ -108,6 +108,5 @@ Using AI in the Software Engineering course has had its ups and downs and has pr
 
 AI was a very helpful tool for me in this course. It helped me to fix lines of code that wasn't working and properly implementing lines of code in WODs and projects. While this was great, I was using it with a risk of time. While some AI responses were helpful and gave me the necessary results I wanted, whenever that wasn't the case, then it would cost time. This wasn't good especially when it came to WODs since they are timed. When students considering using AI for this course, they should make sure they are aware of this so they can be finished with the work faster. 
 
-On the subject of using AI for education, it's not necessarily a problem unless the students use the AI to do all the work for them. It's okay to use AI to help give you a start and give you some sort of idea on how to approach a problem, but students shouldn't solely depend on AI to do the work for them because they aren't learning anything if they do that. 
-
+On the subject of using AI for education, it's not necessarily a problem unless the students use the AI to do all the work for them. It's okay to use AI to help give you a start and give you some sort of idea on how to approach a problem, but students shouldn't solely depend on AI to do the work for them because they aren't learning anything if they do that. In order to effectively integrate AI into future courses, I think teachers should encourage students using AI to help them if needed while also emphasizing the importance of taking responsibility to learn and do work on their own.
 
