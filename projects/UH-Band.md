@@ -7,6 +7,7 @@ date: 2022
 published: true
 labels:
   - Music
+summary: "My involvement with the world of music and being in one of the biggest organizations at UH Manoa. Provided also are playlists of performances I've been in throughout my time at UH Manoa so far."
 ---
 
 <div>
