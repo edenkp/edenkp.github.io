@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/daClubLogo.png 
+image: img/daclublogo.png 
 title: "Da Club"
 date: 2024
 published: true
@@ -11,7 +11,6 @@ labels:
   - Project
 summary: "My final project that I worked on with my team in ICS 314."
 ---
-<img src="img/daClubLogo.png" alt="Da Club Logo" style="width:200px;">
 
 <img src="daClubLogo.png">
 
