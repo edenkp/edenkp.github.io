@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/daclublogo.png 
+image: img/daClubLogo.png 
 title: "Da Club"
 date: 2024
 published: true
