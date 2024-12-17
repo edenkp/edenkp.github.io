@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/hms.png 
-title: "Da Club"
+title: "Hotel Management System"
 date: 2023
 published: true
 labels:
