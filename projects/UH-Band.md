@@ -11,7 +11,7 @@ summary: "My involvement with the world of music and being in one of the biggest
 ---
 
 <div>
-  <img width="1000px" 
+  <img width="1200px" 
      class="rounded float-start pe-4"
      src="uhmb24.jpg">
 </div>
