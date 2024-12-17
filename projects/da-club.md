@@ -24,8 +24,12 @@ While working on Milestone 2, we made a lot more progress and added a lot more t
 
 Milestone 3 required us to make major improvements to our application than the previous milestones. With that, not only did we make big changes to our schemas and databases, but also to the design/layout of our page. Below are images of the original design from when we first started working on Da Club and the final product design:
 
-<img src="da-club-original.png">
-<img src="da-club-landing.png">
+<img width="1200px" 
+     class="rounded float-start pe-4"
+     src="da-club-original.png">
+<img width="1200px" 
+     class="rounded float-start pe-4"
+     src="da-club-landing.png">
 
 We were also required to input real data into our application, so we added real clubs from UH Manoa to the database. We did this by looking at a Google spreadsheet of RIO's (Registered Independent Organizations) that contained information on every club there is at UH Manoa. We took about 100 clubs from this spreadsheet and incorporated them into our database.
 
