@@ -12,6 +12,8 @@ labels:
 
 # The Past, The Present, The Future
 
+<img src="ppf.jpg">
+
 ## The Past
 
 Ever since I was young, I knew I wanted to pursue a career within the field of technology, but wasn't exactly sure what I wanted to do. During a small tour of my high school when I was in 8th grade, I remember being brought to one of the classrooms on campus with some of my other classmates and our tour guide telling us, "This is the coding classroom." The word "coding" rang in my head. I knew this was an opportunity for me to get a taste of working with technology. 
