@@ -9,7 +9,7 @@ labels:
   - Coding
 ---
 
-#Effort Estimation
+# Effort Estimation
 
 <img width="500px" 
      class="rounded float-start pe-4" 
