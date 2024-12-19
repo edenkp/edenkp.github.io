@@ -39,8 +39,12 @@ We were also required to input real data into our application, so we added real 
 
 ## My Contributions to this Project
 
-I contributed in designing our website and making the logo for Da Club. I used Canva to design the logo, and did some additional research using Google to find background images for the different pages. As seen in the screenshots above, the design was changed a lot throughout the time we worked on Da Club. My teammates helped me change up the design of the webpage while also maintaining most of my design ideas. 
+I contributed in designing our website and making the logo for Da Club. I used Canva to design the logo, and did some additional research using Google to find background images for the different pages. As seen in the screenshots above, the design was changed quite a bit towards the end of our project. My teammates helped me change up the design of the webpage while also maintaining most of my design ideas. 
 
-I also helped with adding interest areas for our application. Interest areas are what defines what type of club a club is. The interest areas were implemented not only so users can see what kind of club their looking into, but it's also used as a way to help our page to stay organized. Instead of alphabetizing our clubs and organizing them in that way, we used the interest areas to organize them. To do this, I needed in incorporate them into our schema for our database
+I also helped with adding interest areas for our application. Interest areas are what defines what type of club a club is. The interest areas were implemented not only so users can see what kind of club their looking into, but it's also used as a way to help our page to stay organized. Instead of alphabetizing our clubs and organizing them in that way, we used the interest areas to organize them. To do this, I needed in incorporate them into our schema for our database, which is a framework that keeps our data organized. 
+
+Towards the end of our project, we needed to incoporate real data into our web application, which meant finding real clubs from UH Manoa and some information of those clubs. I helped contribute with incorporating real data by searching for an RIO (Registered Individual Organizations) list and gathering information from there. I also searched online using Google to find images and possible club websites to also incoporate into real data. 
+
+For anyone who wants to learn more about our project and see our source code, click <a href="https://ics-314-code-crew.github.io/">here</a>.
 
 To look at our final product of our application, Da Club, click <a href="https://daclub-ruddy.vercel.app/">here</a>.
