@@ -14,9 +14,13 @@ summary: "My final project that I worked on with my team in ICS 314."
 
 <img src="daClubLogo.png">
 
-## Working on Da Club
+## Overview on Da Club
 
-For the final project of my ICS 314 course, students were put into teams and assigned specific website prompts. For my team, we were assigned "Club Hub", which was an application that served as a club catalog that students could use to look at different clubs on campus. Because we were told that we couldn't use the original project name "Club Hub", my team and I came up with "Da Club". 
+Da Club is an application that displays different clubs that are available to students at UH Manoa. Students can use our webpage to discover what clubs UH Manoa has to offer. Da Club contains information such as any webpages that correlate to the club, a description of the club, a photo gallery that contains pictures of club members or events, etc. For users who don't go to UH or don't a hawaii.edu email, they won't be able to access club information. In order for users to gain access of features our application has, they must log in using their hawaii.edu email. Users can also add clubs of their own to the website so they can also show off their clubs to other Da Club users. 
+
+For the final project of my ICS 314 course, students were put into teams and assigned specific website prompts. For my team, we were assigned "Club Hub", which was the original project name when it was assigned to us. Because we were told that we couldn't use the original project name "Club Hub", my team and I came up with "Da Club". 
+
+## Working on Da Club
 
 During the first milestone of the project, my team and I focused on making the "structure" of the website that would eventually be improved on as time went on. We focused on some very basic issues, such as creating a simple design/layout for the page, creating a working schema for the application, and simple features such as signing in, signing up, and signing out. Although it was quite a rough start, we reflected on our experience during this first milestone and talked about how we could better improve for the next milestone.
 
@@ -32,5 +36,11 @@ Milestone 3 required us to make major improvements to our application than the p
      src="da-club-landing.png">
 
 We were also required to input real data into our application, so we added real clubs from UH Manoa to the database. We did this by looking at a Google spreadsheet of RIO's (Registered Independent Organizations) that contained information on every club there is at UH Manoa. We took about 100 clubs from this spreadsheet and incorporated them into our database.
+
+## My Contributions to this Project
+
+I contributed in designing our website and making the logo for Da Club. I used Canva to design the logo, and did some additional research using Google to find background images for the different pages. As seen in the screenshots above, the design was changed a lot throughout the time we worked on Da Club. My teammates helped me change up the design of the webpage while also maintaining most of my design ideas. 
+
+I also helped with adding interest areas for our application. Interest areas are what defines what type of club a club is. The interest areas were implemented not only so users can see what kind of club their looking into, but it's also used as a way to help our page to stay organized. Instead of alphabetizing our clubs and organizing them in that way, we used the interest areas to organize them. To do this, I needed in incorporate them into our schema for our database
 
 To look at our final product of our application, Da Club, click <a href="https://daclub-ruddy.vercel.app/">here</a>.
