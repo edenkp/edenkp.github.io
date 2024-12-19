@@ -45,6 +45,8 @@ I also helped with adding interest areas for our application. Interest areas are
 
 Towards the end of our project, we needed to incoporate real data into our web application, which meant finding real clubs from UH Manoa and some information of those clubs. I helped contribute with incorporating real data by searching for an RIO (Registered Individual Organizations) list and gathering information from there. I also searched online using Google to find images and possible club websites to also incoporate into real data. 
 
+
+## Links to our Project and Organization
 For anyone who wants to learn more about our project and see our source code, click <a href="https://ics-314-code-crew.github.io/">here</a>.
 
 To look at our final product of our application, Da Club, click <a href="https://daclub-ruddy.vercel.app/">here</a>.
