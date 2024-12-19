@@ -12,7 +12,9 @@ labels:
 
 # The Past, The Present, The Future
 
-<img src="ppf.jpg">
+<img width="500px" 
+     class="rounded float-start pe-4" 
+     src="ppf.jpg" >
 
 ## The Past
 
