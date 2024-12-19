@@ -4,7 +4,7 @@ type: essay
 title: "Effort Estimation"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-17
-published: false
+published: true
 labels:
   - Coding
 ---
