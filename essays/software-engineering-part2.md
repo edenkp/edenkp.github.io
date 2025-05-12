@@ -4,7 +4,7 @@ type: essay
 title: "Continuing my Journey in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-07
-published: false
+published: true
 labels:
   - Software Engineering
   - Coding
