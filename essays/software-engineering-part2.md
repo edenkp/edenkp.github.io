@@ -13,7 +13,7 @@ labels:
 
 # Continuing my Journey Software Engineering
 
-<img src="softEng.jpg">
+<img width="300px" src="softEng.jpg">
 
 ## Continuing Down the Path
 
