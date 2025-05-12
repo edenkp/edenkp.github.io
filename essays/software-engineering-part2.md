@@ -13,6 +13,8 @@ labels:
 
 # Continuing my Journey Software Engineering
 
+<img src="softEng.jpg">
+
 ## Continuing Down the Path
 
 The course, ICS 414, is the continuation of ICS 314. In this class, students like myself take our software engineering skills to another level by using those skills to create an application for an actual client. I was assigned to a group that originally started out with 8 people, but then became a group of 6 down the line. Taking what we had learned from this class, we worked together and collaborated to create our version of a financial model that serves almost the same purpose as an Excel sheet, but as a website application. 
