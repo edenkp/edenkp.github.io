@@ -44,18 +44,22 @@ jobs:
           ~/.rbenv/bin/rbenv install 3.1.0
           ~/.rbenv/bin/rbenv global 3.1.0
       - name: Verify Ruby Installation
-        run: ruby --version
+          run: ruby --version
       - name: Install Bundler
-        run: gem install bundler
+          run: |
+          echo 'export GEM_HOME="$HOME/.gem"' >> ~/.bashrc
+          echo 'export PATH="$HOME/.gem/bin:$PATH"' >> ~/.bashrc
+          source ~/.bashrc
+          gem install bundler
       - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
+          id: pages
+          uses: actions/configure-pages@v4
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: production
+          run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+          env:
+            JEKYLL_ENV: production
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+          uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
